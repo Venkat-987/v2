@@ -1,0 +1,6 @@
+Version control: Keeps a history of all changes made to files.
+
+Distributed: Each user has a full copy of the entire project history on their computer.
+
+Branching: Lets you create multiple versions of your project to work on different features or fixes simultaneously.
+

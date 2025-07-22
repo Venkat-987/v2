@@ -1,0 +1,10 @@
+Track Changes: Every modification you make is saved as a commit, allowing you to revisit or revert to earlier versions.
+
+Collaboration: Multiple developers can work simultaneously on the same project without overwriting each other's work.
+
+Branching and Merging: You can create branches for new features or bug fixes, and merge them back into the main codebase when ready.
+
+Backup: Since every user has a full copy, it reduces the risk of losing data.
+
+History and Audit: You can see who made which changes and why, with commit messages documenting the intent.
+

@@ -1,0 +1,6 @@
+GitHub: The most popular platform for open-source projects.
+
+GitLab: Offers Git hosting and CI/CD tools.
+
+Bitbucket: Integrates well with Atlassian tools like Jira.
+
